@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Ken's Test Hugo Site"
+#theme = "ananke"
+theme = "hugo_theme_beg"
